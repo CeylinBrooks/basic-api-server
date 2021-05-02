@@ -1,0 +1,19 @@
+{
+  "name": "basic-api-server",
+  "version": "1.0.0",
+  "description": "basic api server",
+  "main": "index.js",
+  "scripts": {
+    "test": "it"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CeylinBrooks/basic-api-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CeylinBrooks/basic-api-server/issues"
+  },
+  "homepage": "https://github.com/CeylinBrooks/basic-api-server#readme"
+}
