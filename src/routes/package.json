@@ -1,0 +1,11 @@
+{
+  "name": "routes",
+  "version": "1.0.0",
+  "description": "basic api server",
+  "main": "custon-routes.js",
+  "scripts": {
+    "test": "it"
+  },
+  "author": "Ceylin Brooks",
+  "license": "ISC"
+}
